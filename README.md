@@ -76,8 +76,9 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
 ```
-## Logic symbol & Truthtable:
-![logic-gates](https://github.com/22009011/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118343461/3cd8e8eb-bcc1-4cb4-9f7c-f83576d32fb5)
+## Truthtable:
+![image](https://github.com/22009011/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118343461/b749100a-0001-43d5-9716-69a3a29e71da)
+
 
 ## RTL realization:
 ![digital](https://github.com/22009011/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118343461/7f06832f-baea-4383-8969-f181bc7783d9)
